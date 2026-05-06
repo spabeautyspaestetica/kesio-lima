@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "kesio",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "3000", "--directory", "G:\\Meu Drive\\06 - SPARBEAUTY\\00 - sistemas profissionais\\kesio"],
+      "port": 3000
+    }
+  ]
+}
