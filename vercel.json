@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/", "destination": "/kesio-lima_3.html" }]
+}
